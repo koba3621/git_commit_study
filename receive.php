@@ -1,9 +1,3 @@
-<?php
-if (!isset($_POST['user_input'])) {
-	header('Location: form.php');
-	exit();
-}
-?>
 <!DOCTYPE html>
 <html lang="ja">
 <head>
