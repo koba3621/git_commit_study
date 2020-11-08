@@ -8,7 +8,7 @@
 <h1>好きに入力してください</h1>
 <form action="receive.php" method="post">
 <input type="text" name="user_input">
-<input type="submit" value="送信">
+<input type="submit" value="送信する">
 </form>
 </body>
 </html>
